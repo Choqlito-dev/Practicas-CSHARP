@@ -59,7 +59,7 @@
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             this.guna2HtmlLabel1.Size = new System.Drawing.Size(222, 67);
             this.guna2HtmlLabel1.TabIndex = 5;
-            this.guna2HtmlLabel1.Text = "Blue Loader";
+            this.guna2HtmlLabel1.Text = "Nombre";
             // 
             // Username
             // 
