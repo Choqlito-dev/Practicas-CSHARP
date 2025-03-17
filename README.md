@@ -66,8 +66,8 @@ Este proyecto está bajo la licencia **MIT**. Siéntete libre de usarlo, modific
 ---
 
 ## 📧 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
-
+¡No dudes en contactarme en Discord si tienes alguna pregunta o sugerencia!
+[![Discord](https://img.shields.io/badge/Discord-%40choqlito__-7289DA?logo=discord&logoColor=white)](https://discord.com/users/choqlito_)
 ---
 
 ¡Gracias por visitar este repositorio! Esperamos que este sistema de autenticación sea de gran utilidad para tus proyectos. 🌟
