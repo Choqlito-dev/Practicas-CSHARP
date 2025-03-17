@@ -8,9 +8,9 @@ namespace FormularioNauj
     {
 
         public static api KeyAuthApp = new api(
-            name: "Choqlito", // App name
-            ownerid: "ShS7AgPckY", // Account ID
-            version: "1.0" // Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
+            name: "", // App name
+            ownerid: "", // Account ID
+            version: "" // Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
                            //path: @"Your_Path_Here" // (OPTIONAL) see tutorial here https://www.youtube.com/watch?v=I9rxt821gMk&t=1s
         );
 
