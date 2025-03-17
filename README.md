@@ -44,13 +44,13 @@ Practicas-CSHARP/
 
 └── [FormularioNauj](FormularioNauj/)/
 
-├── [.vs/FormularioNauj](FormularioNauj/)
+├── [.vs/FormularioNauj](FormularioNauj/.vs/FormularioNauj/)
 
-├── [FormularioNauj](FormularioNauj/)
+├── [FormularioNauj](FormularioNauj/FormularioNauj)
 
-├── [packages/Guna.UI2.WinForms.2.0.4.7](FormularioNauj/)
+├── [packages/Guna.UI2.WinForms.2.0.4.7](FormularioNauj/packages/Guna.UI2.WinForms.2.0.4.7)
 
-└── [FormularioNauj.sln](FormularioNauj/)
+└── [FormularioNauj.sln](FormularioNauj/FormularioNauj.sln)
 
 
 ---
