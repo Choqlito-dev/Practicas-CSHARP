@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|c:\\users\\claud\\onedrive\\escritorio\\practicas c#\\formularionauj\\formularionauj\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|solutionrelative:formularionauj\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\formularionauj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|solutionrelative:formularionauj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\formularionauj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|solutionrelative:formularionauj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\formularionauj\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|solutionrelative:formularionauj\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\formularionauj\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|solutionrelative:formularionauj\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\formularionauj\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C53D881-9AF8-4D0B-AF7F-2D4E94046FF1}|FormularioNauj\\FormularioNauj.csproj|solutionrelative:formularionauj\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Registro.cs",
+              "RelativeDocumentMoniker": "FormularioNauj\\Registro.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Registro.cs",
+              "RelativeToolTip": "FormularioNauj\\Registro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:36:40.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Login.cs",
+              "RelativeDocumentMoniker": "FormularioNauj\\Login.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Login.cs",
+              "RelativeToolTip": "FormularioNauj\\Login.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:57:19.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Login.cs",
+              "RelativeDocumentMoniker": "FormularioNauj\\Login.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioNauj\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:53:55.4Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Main.cs",
+              "RelativeDocumentMoniker": "FormularioNauj\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioNauj\\Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:39:00.247Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Main.cs",
+              "RelativeDocumentMoniker": "FormularioNauj\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Main.cs",
+              "RelativeToolTip": "FormularioNauj\\Main.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:20:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Registro.cs",
+              "RelativeDocumentMoniker": "FormularioNauj\\Registro.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Escritorio\\Practicas C#\\FormularioNauj\\FormularioNauj\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioNauj\\Registro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:55:14.618Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
