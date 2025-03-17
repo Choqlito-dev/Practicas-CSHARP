@@ -40,10 +40,15 @@ El proyecto está organizado de la siguiente manera:
 
 Practicas-CSHARP/
 │
+
 └── FormularioNauj/
+
 ├── .vs/FormularioNauj
+
 ├── FormularioNauj
+
 ├── packages/Guna.UI2.WinForms.2.0.4.7
+
 └── FormularioNauj.sln
 
 
